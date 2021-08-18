@@ -1,0 +1,46 @@
+
+
+header{
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background-color:#4F4F4F;
+    font-family: 'Indie Flower', cursive; ;
+   
+    
+}
+
+
+P{
+    color: #708090;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1{
+    color:black;
+}
+
+h2{
+    color: antiquewhite ;
+}
+
+h3{
+    color: antiquewhite ; 
+}
+
+section{
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background-color:#B0C4DE ;
+   
+}
+
+aside{
+    color: black;
+    flex-direction: row;
+    text-align: center;
+    background-color:#A9A9A9;
+    
+    
+}
